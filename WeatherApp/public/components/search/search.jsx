@@ -48,6 +48,7 @@ const Search = ({ onSearch }) => {
           backgroundColor: "transparent",
         }}
       />
+
       <button
         onClick={handleSearch}
         style={{
